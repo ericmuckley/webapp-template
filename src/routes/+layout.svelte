@@ -3,7 +3,6 @@
     import TopNavbar from "./_lib/TopNavbar.svelte";
 </script>
 
-
 <TopNavbar />
 
 <div class="p-8">
